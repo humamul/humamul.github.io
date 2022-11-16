@@ -14,7 +14,15 @@ html{
     color: #f1f1f1;
 }
 
-
+#iconss{
+   width: 100px;
+ 
+ }
+ #centere{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ }
 
 /* custom scroll bar */
 ::-webkit-scrollbar {
